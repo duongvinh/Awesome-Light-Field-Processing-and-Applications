@@ -50,8 +50,33 @@ Please feel free to send me [pull requests](https://github.com/Vinh-Duong/Awesom
 
 ### Light Field Image Compression
 
-#### Light Field Image Compression
+* [Compression of unfocused plenoptic images using a displacement intra prediction](https://ieeexplore.ieee.org/document/7574673) 
+* [Hevc-based light field image coding with bi-predicted self-similarity compensation](https://ieeexplore.ieee.org/document/7574667) 
+* [Image reshaping for efficient compression of plenoptic content](https://ieeexplore.ieee.org/document/8012378) 
+* [Image reshaping for efficient compression of plenoptic content](https://ieeexplore.ieee.org/document/8022889) 
+* [Light field image coding using high order intra block prediction](https://ieeexplore.ieee.org/abstract/document/7961268/) 
+* [Locally linear embedding-based prediction for 3D holoscopic image coding using HEVC](https://ieeexplore.ieee.org/document/6951961) 
+* [Pseudo-sequence-based 2-d hierarchical coding structure for light-field image compression](https://ieeexplore.ieee.org/document/7972959) 
+* [Pseudo-sequence-based light field image compression](https://ieeexplore.ieee.org/document/7574674) 
+* [Rate-distortion optimized super-ray merging for light field compression](https://ieeexplore.ieee.org/document/8553485) 
 
- * [EENG 512 / CSCI 512 - Computer Vision](http://inside.mines.edu/~whoff/courses/EENG512/) - William Hoff (Colorado School of Mines)
 
-## Light Field Depth Estimation
+
+##  Light Field Depth Estimation
+### A List of Survey Paper Light Field Image Compression
+* [A axonomy and evaluation of dense light field depth estimation algorithms](http://lightfield-analysis.net/benchmark/paper/survey_cvprw_lf4cv_2017.pdf)
+
+### Non-Learning Based Methods
+* [Oclusion-aware depth estimation using light-field cameras](https://cseweb.ucsd.edu/~ravir/lfocclusion.pdf)
+* [Occlusion-model guided antiocclusion depth estimation in light field](https://ieeexplore.ieee.org/document/7987707)
+* [Tust your model: light field depth estimation with inline occlusion handling](https://ieeexplore.ieee.org/document/8578574)
+
+
+
+
+
+
+
+
+
+
