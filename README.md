@@ -1,6 +1,5 @@
 # Awesome-Light-Field-Processing-and-Applications
-A up-to-date of awesome light field processing and applications
-A curated list of awesome computer vision resources, inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
+A up-to-date of awesome light field processing and applications, inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 ## Contributing
 Please feel free to send me [pull requests](https://github.com/Vinh-Duong/Awesome-Light-Field-Processing-and-Applications/pulls) or email (duongvinhyd@gmail.com) to add links.
 
@@ -17,7 +16,7 @@ Please feel free to send me [pull requests](https://github.com/Vinh-Duong/Awesom
  
  ## Overview Light Field: Tutorial and Talks
 
-#### Early papers
+### Early papers
 * [Light Field Rendering](https://graphics.stanford.edu/papers/light/light-lores-corrected.pdf)
 * [Light fields and computational imaging](https://graphics.stanford.edu/papers/lfphoto/levoy-lfphoto-ieee06.pdf)
 * [The lumigraph](https://cseweb.ucsd.edu/~ravir/6160-fall04/papers/p43-gortler.pdf)
@@ -25,12 +24,12 @@ Please feel free to send me [pull requests](https://github.com/Vinh-Duong/Awesom
 * [The focused plenoptic camera](http://www.tgeorgiev.net/EG10/Focused.pdf)
 
 
-#### Overview Light Field Papers
+### Overview Light Field Papers
 * [Light Field Image Processing: An Overview](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8022901)
 * [Computational photography with plenoptic camera and light field capture: tutorial](https://www.osapublishing.org/josaa/abstract.cfm?uri=josaa-32-11-2021)
 
 
-#### Lectures, Tutorial and Talks
+### Lectures, Tutorial and Talks
 * [Dynamically Reparameterized Light Fields & Fourier Slice Photography](https://people.mpi-inf.mpg.de/~theobalt/courses/Barth_Refocussing.pdf)
 * [Introduction to the Light-Field Camera](http://disp.ee.ntu.edu.tw/class/20131129-LightField_intro.pdf)
 * [Computational Methods for Radiance](http://www.tgeorgiev.net/WSCG2010/Computation.pdf)
@@ -41,18 +40,18 @@ Please feel free to send me [pull requests](https://github.com/Vinh-Duong/Awesom
 * [CVPR Tutorial Camera Culture Light Fields](http://tab.computer.org/pamitc/archive/cvpr2009/raskarCVPRlightfieldIntroFinal.pdf)
 
 
+## Light Field Inage/Video Coding
+
+### A List of Survey Paper Light Field Image Compression
+* [Dense Light Field Coding: A Survey](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9020136)
+* [Lenslet Light Field Image Coding: Classifying, Reviewing and Evaluating](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9016088)
+* [The JPEG Pleno Light Field Coding Standard 4D-Transform Mode: How to Design an Efficient 4D-Native Codec](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9200599)
 
 
-
-
-
-
-
-
-## Light Field Compression
+### Light Field Image Compression
 
 #### Light Field Image Compression
- * [EENG 512 / CSCI 512 - Computer Vision](http://inside.mines.edu/~whoff/courses/EENG512/) - William Hoff (Colorado School of Mines)
 
+ * [EENG 512 / CSCI 512 - Computer Vision](http://inside.mines.edu/~whoff/courses/EENG512/) - William Hoff (Colorado School of Mines)
 
 ## Light Field Depth Estimation
