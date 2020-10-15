@@ -69,9 +69,12 @@ Please feel free to send me [pull requests](https://github.com/Vinh-Duong/Awesom
 ### Non-Learning Based Methods
 * [Oclusion-aware depth estimation using light-field cameras](https://cseweb.ucsd.edu/~ravir/lfocclusion.pdf)
 * [Occlusion-model guided antiocclusion depth estimation in light field](https://ieeexplore.ieee.org/document/7987707)
-* [Tust your model: light field depth estimation with inline occlusion handling](https://ieeexplore.ieee.org/document/8578574)
+* [Accurate light field depth estimation with superpixel regularization over partially occluded regions](https://ieeexplore.ieee.org/document/8362692)
+* [Robust light field depth estimation using occlusion-noise aware data costs](https://ieeexplore.ieee.org/abstract/document/8022875)
+* [Robust depth estimation for light field via spinning parallelogram operator](https://www.sciencedirect.com/science/article/pii/S1077314215002714)
 
-
+### Deep-Learning Based Methods
+* [EPINET: A Fully-Convolutional Neural Network using Epipolar Geometry for Depth from Light Field Images](https://arxiv.org/pdf/1804.02379.pdf)
 
 
 
