@@ -5,7 +5,7 @@ Please feel free to send me [pull requests](https://github.com/Vinh-Duong/Awesom
 
 ## Table of Contents
 
- - [Overview Light Field: Tutorial and Talks](#Overview Light Field: Tutorial and Talks)
+ - [Overview Light Field: Tutorial and Talks](#courses)
  - [Light Field Compression](#courses)
  - [Light Field Depth Estimation](#papers)
  - [Light Field Super-Resolutions](#software)
@@ -40,7 +40,7 @@ Please feel free to send me [pull requests](https://github.com/Vinh-Duong/Awesom
 * [CVPR Tutorial Camera Culture Light Fields](http://tab.computer.org/pamitc/archive/cvpr2009/raskarCVPRlightfieldIntroFinal.pdf)
 
 
-## Light Field Inage/Video Coding
+## Light Field Image/Video Coding
 
 ### A List of Survey Paper Light Field Image Compression
 * [Dense Light Field Coding: A Survey](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9020136)
