@@ -6,12 +6,11 @@ Please feel free to send me [pull requests](https://github.com/Vinh-Duong/Awesom
 ## Table of Contents
 
  - [Overview Light Field: Tutorial and Talks](#Overview-Light-Field:-Tutorial-and-Talks)
- - [Light Field Compression](#Light Field Image/Video Coding)
- - [Light Field Depth Estimation](#Light Field Depth Estimation)
- - [Light Field Super-Resolutions](#Light Field Super-Resolution)
- - [Light Field Denosing](#Light Field Denoising)
- - [Useful Links](#Useful links)
- -  
+ - [Light Field Compression](#Light-Field-Image/Video-Coding)
+ - [Light Field Depth Estimation](#Light-Field-Depth-Estimation)
+ - [Light Field Super-Resolutions](#Light-Field-Super-Resolution)
+ - [Light Field Denosing](#Light-Field-Denoising)
+ - [Useful Links](#Useful-links)
  
  ## Overview Light Field: Tutorial and Talks
 
