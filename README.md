@@ -61,14 +61,14 @@ Please feel free to send me [pull requests](https://github.com/Vinh-Duong/Awesom
 * [Rate-distortion optimized super-ray merging for light field compression](https://ieeexplore.ieee.org/document/8553485)
 #### Learning based
 * [Learned Focused Plenoptic Image Compression with Microimage Preprocessing and Global Attention](https://arxiv.org/abs/2305.00489)
-* 
+  
 ### Light Field Video Compression
 #### Intra-coding tools
 * [Imaging-Correlated Intra Prediction for Plenoptic 2.0 Video Coding](https://ieeexplore.ieee.org/document/9102725)
 * [Plenoptic 2.0 Intra Coding Using Imaging Principle](https://ieeexplore.ieee.org/document/9528842)
 * [Pixel Gradient Based Zooming Method for Plenoptic Intra Prediction](https://ieeexplore.ieee.org/document/9675380)
 * [Zoomable Intra Prediction for Multi-Focus Plenoptic 2.0 Video Coding](https://ieeexplore.ieee.org/document/9506363)
-* 
+  
 #### Inter-coding tools
 * [Macropixel based Fast Motion Estimation for Plenoptic Video Compression](https://link.springer.com/chapter/10.1007/978-3-030-00764-5_67)
 * [FAST and Efficient Microlens-Based Motion Search for Plenoptic Video Coding](https://ieeexplore.ieee.org/document/9506117)
@@ -94,8 +94,11 @@ Please feel free to send me [pull requests](https://github.com/Vinh-Duong/Awesom
 
 
 
+##  Light Field Super-Resolution
 
-
-
-
-
+### Spatial Light Field Super-Resolution
+* [A Collection of Papers and Datasets for Light Field Image Super-Resolution](https://github.com/The-Learning-And-Vision-Atelier-LAVA/LF-Image-SR )
+* [Open Source Light Field Toolbox for Super-Resolution](https://github.com/ZhengyuLiang24/BasicLFSR)
+### Angluar Light Field Super-Resolution
+* [Spatial-Angular Attention Network for Light Field Reconstruction](https://ieeexplore.ieee.org/document/9591451)
+* [Light Field Angular Super-Resolution via Dense Correspondence Field Reconstruction](https://www.springerprofessional.de/en/light-field-angular-super-resolution-via-dense-correspondence-fi/24032906)
