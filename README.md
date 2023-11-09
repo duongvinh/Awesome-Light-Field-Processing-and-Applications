@@ -5,14 +5,13 @@ Please feel free to send me [pull requests](https://github.com/Vinh-Duong/Awesom
 
 ## Table of Contents
 
- - [Overview Light Field: Tutorial and Talks](#courses)
- - [Light Field Compression](#courses)
- - [Light Field Depth Estimation](#papers)
- - [Light Field Super-Resolutions](#software)
- - [Light Field Denosing](#tutorials-and-talks)
- - [Light Field Quality Assessment](#resources-for-students)
- - [Research Groups](#blogs)
- - [Useful Links](#links)
+ - [Overview Light Field: Tutorial and Talks](#Overview Light Field: Tutorial and Talks)
+ - [Light Field Compression](#Light Field Image/Video Coding)
+ - [Light Field Depth Estimation](#Light Field Depth Estimation)
+ - [Light Field Super-Resolutions](#Light Field Super-Resolution)
+ - [Light Field Denosing](#Light Field Denoising)
+ - [Useful Links](#Useful links)
+ -  
  
  ## Overview Light Field: Tutorial and Talks
 
@@ -110,9 +109,13 @@ Please feel free to send me [pull requests](https://github.com/Vinh-Duong/Awesom
 * [Spatial-Angular Attention Network for Light Field Reconstruction](https://ieeexplore.ieee.org/document/9591451)
 * [Light Field Angular Super-Resolution via Dense Correspondence Field Reconstruction](https://www.springerprofessional.de/en/light-field-angular-super-resolution-via-dense-correspondence-fi/24032906)
 * Update soon ...
-  
+
+
 ##  Light Field Denoising
 * [Light Field Denoising by Sparse 5D Transform Domain Collaborative Filtering](https://github.com/V-Sense/LFBM5D)
 * [Deep Spatial-Angular Regularization for Light Field Imaging, Denoising, and Super-Resolution](https://ieeexplore.ieee.org/document/9448470)
 * [Probabilistic-based Feature Embedding of 4-D Light Fields for Compressive Imaging and Denoising](https://arxiv.org/abs/2306.08836)
 * [Multi-Stream Progressive Restoration for Low-Light Light Field Enhancement and Denoising](https://ieeexplore.ieee.org/document/10034834)
+  
+##  Useful links
+* [Workshop_Computational Imaging with Novel Image Modalities](http://clim.inria.fr/workshop.htm)
