@@ -91,6 +91,12 @@ Please feel free to send me [pull requests](https://github.com/Vinh-Duong/Awesom
 
 ### Deep-Learning Based Methods
 * [EPINET: A Fully-Convolutional Neural Network using Epipolar Geometry for Depth from Light Field Images](https://arxiv.org/pdf/1804.02379.pdf)
+* [3D Convolutional Neural Network for Light Field Depth Estimation](https://github.com/catdance124/3Dconv_LF_depth_estimation)
+* [DistgDisp: Disentangling Mechanism for Light Field Disparity Estimation](https://github.com/YingqianWang/DistgDisp)
+* [LFattNet: Attention-based View Selection Networks for Light-field Disparity Estimation](https://github.com/LIAGM/LFattNet)
+* [Fast Light-field Disparity Estimation with Multi-disparity-scale Cost Aggregation](https://github.com/zcong17huang/FastLFnet)
+* [Occlusion-Aware Cost Constructor for Light Field Depth Estimation](https://github.com/YingqianWang/OACC-Net)
+  
 
 
 
@@ -99,6 +105,14 @@ Please feel free to send me [pull requests](https://github.com/Vinh-Duong/Awesom
 ### Spatial Light Field Super-Resolution
 * [A Collection of Papers and Datasets for Light Field Image Super-Resolution](https://github.com/The-Learning-And-Vision-Atelier-LAVA/LF-Image-SR )
 * [Open Source Light Field Toolbox for Super-Resolution](https://github.com/ZhengyuLiang24/BasicLFSR)
+  
 ### Angluar Light Field Super-Resolution
 * [Spatial-Angular Attention Network for Light Field Reconstruction](https://ieeexplore.ieee.org/document/9591451)
 * [Light Field Angular Super-Resolution via Dense Correspondence Field Reconstruction](https://www.springerprofessional.de/en/light-field-angular-super-resolution-via-dense-correspondence-fi/24032906)
+* Update soon ...
+  
+##  Light Field Denoising
+* [Light Field Denoising by Sparse 5D Transform Domain Collaborative Filtering](https://github.com/V-Sense/LFBM5D)
+* [Deep Spatial-Angular Regularization for Light Field Imaging, Denoising, and Super-Resolution](https://ieeexplore.ieee.org/document/9448470)
+* [Probabilistic-based Feature Embedding of 4-D Light Fields for Compressive Imaging and Denoising](https://arxiv.org/abs/2306.08836)
+* [Multi-Stream Progressive Restoration for Low-Light Light Field Enhancement and Denoising](https://ieeexplore.ieee.org/document/10034834)
