@@ -49,7 +49,7 @@ Please feel free to send me [pull requests](https://github.com/Vinh-Duong/Awesom
 
 
 ### Light Field Image Compression
-
+#### Non-learning based
 * [Compression of unfocused plenoptic images using a displacement intra prediction](https://ieeexplore.ieee.org/document/7574673) 
 * [Hevc-based light field image coding with bi-predicted self-similarity compensation](https://ieeexplore.ieee.org/document/7574667) 
 * [Image reshaping for efficient compression of plenoptic content](https://ieeexplore.ieee.org/document/8012378) 
@@ -58,7 +58,23 @@ Please feel free to send me [pull requests](https://github.com/Vinh-Duong/Awesom
 * [Locally linear embedding-based prediction for 3D holoscopic image coding using HEVC](https://ieeexplore.ieee.org/document/6951961) 
 * [Pseudo-sequence-based 2-d hierarchical coding structure for light-field image compression](https://ieeexplore.ieee.org/document/7972959) 
 * [Pseudo-sequence-based light field image compression](https://ieeexplore.ieee.org/document/7574674) 
-* [Rate-distortion optimized super-ray merging for light field compression](https://ieeexplore.ieee.org/document/8553485) 
+* [Rate-distortion optimized super-ray merging for light field compression](https://ieeexplore.ieee.org/document/8553485)
+#### Learning based
+* [Learned Focused Plenoptic Image Compression with Microimage Preprocessing and Global Attention](https://arxiv.org/abs/2305.00489)
+* 
+### Light Field Video Compression
+#### Intra-coding tools
+* [Imaging-Correlated Intra Prediction for Plenoptic 2.0 Video Coding](https://ieeexplore.ieee.org/document/9102725)
+* [Plenoptic 2.0 Intra Coding Using Imaging Principle](https://ieeexplore.ieee.org/document/9528842)
+* [Pixel Gradient Based Zooming Method for Plenoptic Intra Prediction](https://ieeexplore.ieee.org/document/9675380)
+* [Zoomable Intra Prediction for Multi-Focus Plenoptic 2.0 Video Coding](https://ieeexplore.ieee.org/document/9506363)
+* 
+#### Inter-coding tools
+* [Macropixel based Fast Motion Estimation for Plenoptic Video Compression](https://link.springer.com/chapter/10.1007/978-3-030-00764-5_67)
+* [FAST and Efficient Microlens-Based Motion Search for Plenoptic Video Coding](https://ieeexplore.ieee.org/document/9506117)
+* [Microimage-based Two-step Search For Plenoptic 2.0 Video Coding](https://ieeexplore.ieee.org/abstract/document/10219886)
+* [MCPNS: A Macropixel Collocated Positionand Its Neighbors Search for Plenoptic 2.0 Video Coding](https://arxiv.org/abs/2310.08006)
+* [Ray-Space Motion Compensation for Lenslet Plenoptic Video Coding](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10044591)
 
 
 
